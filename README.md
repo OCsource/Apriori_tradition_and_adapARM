@@ -1,2 +1,8 @@
 # Apriori_tradition_and_adapARM
-这是一个Apriori关联算法，一个是传统的输入最小置信度和最小支持度，另一个是用了自适应置信度和支持度；参考论文：https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&amp;dbname=CJFDLAST2019&amp;filename=SJSJ201812026&amp;uid=WEEvREdxOWJmbC9oM1NjYkdwUlVZM3B0U0FMQlFMNk52K2I1bEoyMjErc3I=$R1yZ0H6jyaa0en3RxVUd8df-oHi7XMMDo7mtKT6mSmEvTuk11l2gFA!!&amp;v=MDUxNjJmWVpMRzRIOW5Oclk5SFlvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9mYnVkdEZ5amtVYnpBTmk=
+
+这是一个Apriori关联算法，一个是传统的输入最小置信度和最小支持度，另一个是用了自适应置信度和支持度
+参考论文：支持度和置信度自适应的关联规则挖掘
+链接：https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&amp;dbname=CJFDLAST2019&amp;filename=SJSJ201812026&amp;uid=WEEvREdxOWJmbC9oM1NjYkdwUlVZM3B0U0FMQlFMNk52K2I1bEoyMjErc3I=$R1yZ0H6jyaa0en3RxVUd8df-oHi7XMMDo7mtKT6mSmEvTuk11l2gFA!!&amp;v=MDUxNjJmWVpMRzRIOW5Oclk5SFlvUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9mYnVkdEZ5amtVYnpBTmk=
+
+程序入口为：window.py
+有界面展示，可导入文本内容，事物之间以空格分隔，记录之间以换行分隔
